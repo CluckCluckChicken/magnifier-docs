@@ -4,7 +4,7 @@ headertitle: docs
 description: Magnifier documentation home
 ---
 You can use the Magnifier API to get/put reactions, pins, comments, etc.
-
+You can host the API yourself or you can use the production data (`api.magnifier.potatophant.net`)
 # Authentication
 # DO NOT USE THIS AUTH SYSTEM RIGHT NOW IN YOUR OWN PROJECTS! IT'S ONLY DESIGNED TO WORK WITH MAGNIFIER AND YOU MIGHT GET HACKED! I'm revamping it to be more secure.
 ## Get an authentication code for use
