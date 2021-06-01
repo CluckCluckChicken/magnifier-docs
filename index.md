@@ -6,7 +6,7 @@ description: Magnifier documentation home
 You can use the Magnifier API to get/put reactions, pins, comments, etc.
 
 # Authentication
-# DO NOT USE THIS AUTH SYSTEM RIGHT NOW IN YOUR OWN PROJECTS! I'm revamping it to be more secure.
+# DO NOT USE THIS AUTH SYSTEM RIGHT NOW IN YOUR OWN PROJECTS! IT'S ONLY DESIGNED TO WORK WITH MAGNIFIER AND YOU MIGHT GET HACKED! I'm revamping it to be more secure.
 ## Get an authentication code for use
 
 GET `/api/Auth/code`
